@@ -1,0 +1,2 @@
+# latexexample
+Example LaTeX document
